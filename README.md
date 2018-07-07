@@ -1,7 +1,7 @@
 # Machine_Learning
 repo for machine learning
 
-None of the work done on any of these projects are totally conslusive, they can actually be extended in lots of ways and i added these 
+None of the work done on any of these projects are totally conclusive, they can actually be extended in lots of ways and i added these 
 as comments in some of the files. 
 
 To set up these files you need to have a distribution of anaconda installed
